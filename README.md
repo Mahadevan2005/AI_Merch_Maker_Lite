@@ -27,6 +27,7 @@ To automate the creation and publishing of AI-generated product listings, simula
     - Triggers the pipeline (manually).
     - Automates the full flow from content to publishing.
 
+## ⚙️ Installation Steps
 
 ### 1. Clone the Repository
 ```bash
@@ -88,6 +89,28 @@ For Windows:
     product.json
     product_image.png
 ```
+
+## ⚙️ Sample Output
+### Product.json
+```bash
+    {
+    "title": "Global eBrand Tshirt",
+    "description": "A simple white T-shirt having Global eBrand logo in the center.",
+    "tags": [
+        "white",
+        "eBrand",
+        "global",
+        "simple",
+        "fashion"
+    ],
+    "image_path": "../Output/product_image.png",
+    "created_at": "2025-07-23 17:14:31.838926"
+}
+```
+
+### Sample Image after mockup simulation
+
+
 
 🌟 You are all set!
 <hr>
