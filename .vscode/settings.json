@@ -1,0 +1,8 @@
+{
+    "java.project.sourcePaths": [
+        "Fake Product Publisher (Java)"
+    ],
+    "java.project.referencedLibraries": [
+        "Fake Product Publisher (Java)\\gson-2.10.1.jar"
+    ]
+}

@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>AI Merch Mockup Generator</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>AI Merch Mockup Generator</h1>
+
+  <label for="mockupUpload">Upload Mockup Image:</label>
+  <input type="file" id="mockupUpload" accept="image/*">
+
+  <br><br>
+
+  <label for="designUpload">Upload Design Image:</label>
+  <input type="file" id="designUpload" accept="image/*">
+
+  <br><br>
+
+  <label for="placement">Select Placement:</label>
+  <select id="placement">
+    <option value="front">Front</option>
+  </select>
+
+  <br><br>
+  <button id="generateJson">Export JSON</button>
+  <button id="downloadMockup">Download Mockup with Design</button>
+
+  <div class="mockup-container">
+    <canvas id="designCanvas"></canvas>
+  </div>
+
+  <h2>Mockup JSON Output</h2>
+  <div id="jsonContainer">
+    <button id="copyIcon" title="Copy JSON">📋</button>
+    <pre id="jsonOutput"></pre>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
