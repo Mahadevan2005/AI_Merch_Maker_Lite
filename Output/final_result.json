@@ -1,6 +1,6 @@
 {
     "status": "success",
-    "product_id": "fake-5a2464",
+    "product_id": "fake-6241a0",
     "product_data": {
         "title": "Global eBrand Tshirt",
         "description": "A simple white T-shirt having Global eBrand logo in the center.",
@@ -12,7 +12,7 @@
             "fashion"
         ],
         "image_path": "../Output/product_image.png",
-        "created_at": "2025-07-23 17:14:31.838926"
+        "created_at": "2025-07-23 22:40:49.814411"
     },
     "mockups": [
         {
