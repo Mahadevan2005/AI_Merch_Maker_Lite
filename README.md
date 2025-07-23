@@ -93,8 +93,8 @@ For Windows:
 <hr>
 
 ## 📸 Screenshots
-![Mockup Simulation]("https://github.com/user-attachments/assets/216e5095-4ae7-4841-89b3-01318c9e00b3")
-![Mockup Simulation]("https://github.com/user-attachments/assets/a8ab72d1-976e-4ff0-83f2-17e6af13d512")
+![Mockup Simulation](https://github.com/user-attachments/assets/216e5095-4ae7-4841-89b3-01318c9e00b3)
+![Mockup Simulation](https://github.com/user-attachments/assets/a8ab72d1-976e-4ff0-83f2-17e6af13d512)
 
 <h3 align="center">
 Thank You ❤️
