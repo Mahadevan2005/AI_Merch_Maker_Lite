@@ -82,7 +82,7 @@ For Windows:
     python orchestrator.py
 ```
 
-### 9. Now all the outputs can be seen under the folder "Output"
+### 9. Now all the below output files can be seen under the folder "Output"
 ```bash
     final_result.json
     product.json
@@ -93,9 +93,9 @@ For Windows:
 <hr>
 
 ## 📸 Screenshots
+<img width="1898" height="913" alt="Screenshot 2025-07-23 180201" src="https://github.com/user-attachments/assets/216e5095-4ae7-4841-89b3-01318c9e00b3" />
+<img width="1905" height="907" alt="Screenshot 2025-07-23 180219" src="https://github.com/user-attachments/assets/a8ab72d1-976e-4ff0-83f2-17e6af13d512" />
 
-
-<hr>
 <h3 align="center">
 Thank You ❤️
 </h3>
