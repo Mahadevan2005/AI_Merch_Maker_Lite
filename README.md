@@ -108,10 +108,6 @@ For Windows:
 }
 ```
 
-### Sample Image after mockup simulation
-
-
-
 🌟 You are all set!
 <hr>
 
