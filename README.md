@@ -28,7 +28,7 @@ To automate the creation and publishing of AI-generated product listings, simula
     - Automates the full flow from content to publishing.
 
 ## 📹 Task Walkthrough Video
-    - https://drive.google.com/file/d/1597qJ2TeOCFWdNNpYAmqFnZvw65zUVLH/view?usp=sharing
+    - https://drive.google.com/file/d/1v7yRMiIXKfL_uqxS9EMdFClDbOslgLgO/view?usp=sharing
 
 ## ⚙️ Installation Steps
 
