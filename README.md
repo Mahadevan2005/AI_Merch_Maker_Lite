@@ -110,6 +110,40 @@ For Windows:
     "created_at": "2025-07-23 17:14:31.838926"
 }
 ```
+### final_result.json
+```bash
+    {
+    "status": "success",
+    "product_id": "fake-6241a0",
+    "product_data": {
+        "title": "Global eBrand Tshirt",
+        "description": "A simple white T-shirt having Global eBrand logo in the center.",
+        "tags": [
+            "white",
+            "eBrand",
+            "global",
+            "simple",
+            "fashion"
+        ],
+        "image_path": "../Output/product_image.png",
+        "created_at": "2025-07-23 22:40:49.814411"
+    },
+    "mockups": [
+        {
+            "placement": "front",
+            "image_url": "../Output/product_image.png",
+            "dimensions": {
+                "width": 512,
+                "height": 512
+            },
+            "position": {
+                "x": 100,
+                "y": 150
+            }
+        }
+    ]
+}
+```
 
 🌟 You are all set!
 <hr>
