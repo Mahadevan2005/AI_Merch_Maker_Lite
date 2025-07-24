@@ -65,9 +65,9 @@ For Windows:
     https://search.maven.org/artifact/com.google.code.gson/gson/2.10.1/jar
 ```
 
-### 5. In another terminal move into the directory "Fake Product Publisher (Java)"
+### 5. In terminal move into the directory "Fake Product Publisher (Java)"
 ```bash
-    Fake Product Publisher (Java)
+    cd Fake Product Publisher (Java)
 ```
 
 ### 6. Now first command is to compile the FakeProductPublisher.java and second is to run
@@ -76,7 +76,7 @@ For Windows:
     java -cp ".;gson-2.10.1.jar" FakeProductPublisher
 ```
 
-### 7. Move into the directorty "Product Content Generator (Python)"
+### 7. Now in another terminal move into the directory "Product Content Generator (Python)"
 ```bash
     cd Product Content Generator (Python)
 ```
