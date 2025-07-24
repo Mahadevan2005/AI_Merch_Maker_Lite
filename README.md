@@ -145,7 +145,6 @@ For Windows:
 }
 ```
 
-🌟 You are all set!
 <hr>
 
 ## 📸 Screenshots
