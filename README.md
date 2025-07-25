@@ -34,63 +34,63 @@ To automate the creation and publishing of AI-generated product listings, simula
 
 ### 1. Clone the Repository
 ```bash
-    git clone https://github.com/Mahadevan2005/AI-Merch-Maker-Lite.git
-    cd AI-Merch-Maker-Lite
+git clone https://github.com/Mahadevan2005/AI-Merch-Maker-Lite.git
+cd AI-Merch-Maker-Lite
 ```
 
 ### 2. Create & Activate Virtual Environment
 - #### Create Virtual Environment
   
 ```bash
-    python -m venv venv
+python -m venv venv
 ```
 
 - #### Activate Virtual Environment
 For Linux/macOS:
 ```
-    source venv/bin/activate
+source venv/bin/activate
 ```
 For Windows:
 ```
-    venv\\Scripts\\activate
+venv\\Scripts\\activate
 ```
 
 ### 3. Install Required Backend Package Dependencies
 ```bash
-    pip install -r requirements.txt
+pip install -r requirements.txt
 ```
 
 ### 4. Install "gson-2.10.1.jar" for converting Java objects into their JSON representation from:
 ```bash
-    https://search.maven.org/artifact/com.google.code.gson/gson/2.10.1/jar
+https://search.maven.org/artifact/com.google.code.gson/gson/2.10.1/jar
 ```
 
 ### 5. In terminal move into the directory "Fake Product Publisher (Java)"
 ```bash
-    cd Fake Product Publisher (Java)
+cd Fake Product Publisher (Java)
 ```
 
 ### 6. Now first command is to compile the FakeProductPublisher.java and second is to run
 ```bash
-    javac -cp gson-2.10.1.jar -d . FakeProductPublisher.java
-    java -cp ".;gson-2.10.1.jar" FakeProductPublisher
+javac -cp gson-2.10.1.jar -d . FakeProductPublisher.java
+java -cp ".;gson-2.10.1.jar" FakeProductPublisher
 ```
 
 ### 7. Now in another terminal move into the directory "Product Content Generator (Python)"
 ```bash
-    cd Product Content Generator (Python)
+cd Product Content Generator (Python)
 ```
 
 ### 8. Now run the orchestrator.py to begin the entire flow
 ```bash
-    python orchestrator.py
+python orchestrator.py
 ```
 
 ### 9. Now all the below output files can be seen under the folder "Output"
 ```bash
-    final_result.json
-    product.json
-    product_image.png
+final_result.json
+product.json
+product_image.png
 ```
 
 ## ⚙️ Sample Output
